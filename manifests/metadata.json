@@ -1,0 +1,7 @@
+name 'augeas'
+version '0.1.0'
+author 'Chris Laskey'
+summary 'Installs the required augeas libraries and ruby bindings'
+description 'Installs the required augeas libraries and ruby bindings for Debian and Redhat derivatives'
+license 'MIT License (http://opensource.org/licenses/MIT)'
+project_page 'http://github.com/chrislaskey'
